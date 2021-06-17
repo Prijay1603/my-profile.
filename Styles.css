@@ -1,0 +1,21 @@
+#about{
+    background-color: black;
+    color: cyan;
+    margin: 0;
+    padding-top: 90px;
+    overflow: hidden;
+    position: absolute;
+    height: 800px;
+    display: table;
+}
+#p1{
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+.parallax-inner{
+ display: table-cell;
+ position: relative;
+ text-align: center;
+ vertical-align: middle;
+}
